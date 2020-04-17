@@ -1,0 +1,2 @@
+rootProject.name='FFM Calculator'
+include ':app'

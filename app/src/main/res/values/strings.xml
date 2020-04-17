@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fat Free Mass Calculator</string>
+    <string name="hitName">Name</string>
+    <string name="hitemail">Enter your email</string>
+    <string name="hitpass">Enter your password</string>
+    <string name="hitlevel">Enter your level</string>
+    <string name="hitphn">Enter your phone number</string>
+    <string name="hituni">Enter your university </string>
+    <string name="hitroll">Enter your roll</string>
+
+    <string name="alerNam">Please enter your name</string>
+    <string name="alerEmail">Please enter your email</string>
+    <string name="alerPasword">Please enter your password</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="user_profile">Profile</string>
+    <string name="select_image">Select Image</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
